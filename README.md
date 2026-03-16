@@ -3,4 +3,4 @@
 This is my first repository for base.
 I will share my strategy here regardingl base airdrop.
 ...
-this is first day of base
+this is first day of base dated 17.03.2026
