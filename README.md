@@ -13,3 +13,4 @@ give it any name (example: base-commits)
 keep it public, then click create repository
 click “add file” → “create new file”
 name it something like log.txt or notes.md
+type anything inside the file
