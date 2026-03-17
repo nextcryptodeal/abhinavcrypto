@@ -10,3 +10,4 @@ go to http://github.com and create an account if you don’t already have one.
 click the “+” icon on the top right
 select “new repository”
 give it any name (example: base-commits)
+keep it public, then click create repository
