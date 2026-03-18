@@ -40,3 +40,5 @@ select public and turn on README, then click on create repository.
 you'd have successfully completed your first github commit. 
 head to base guild to claim your role.
 done
+
+priority — base new guild tasks
