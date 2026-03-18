@@ -37,3 +37,4 @@ how to commit on github (base guild task), this is the easiest way, no terminal 
 open up github and go to repositories and click on "new" to create a fresh repo
 name the repository
 select public and turn on README, then click on create repository.
+you'd have successfully completed your first github commit. 
