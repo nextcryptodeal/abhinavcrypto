@@ -24,3 +24,4 @@ repeat the process
 open the file again
 add a new line or edit the text
 click commit changes again
+every time you save changes, it counts as 1 commit.
