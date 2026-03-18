@@ -31,3 +31,6 @@ verify on base guild
 connect your github account to base guild
 refresh the quest page and your progress should update.
 done.
+
+
+how to commit on github (base guild task), this is the easiest way, no terminal stress. 
