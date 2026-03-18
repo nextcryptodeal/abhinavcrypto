@@ -26,3 +26,5 @@ add a new line or edit the text
 click commit changes again
 every time you save changes, it counts as 1 commit.
 repeat this process until you reach 100+ commits.
+
+verify on base guild
