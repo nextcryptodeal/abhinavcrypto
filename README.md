@@ -21,3 +21,4 @@ make your first commit
 scroll down and click “commit changes”
 
 repeat the process
+open the file again
