@@ -17,4 +17,5 @@ type anything inside the file
 
 
 This is day 3 of commit on base ie 18.03.2026
- make your first commit
+make your first commit
+scroll down and click “commit changes”
