@@ -42,3 +42,4 @@ head to base guild to claim your role.
 done
 
 priority — base new guild tasks
+new tasks have been added to base guild. more onchain, technical, and social tasks.
