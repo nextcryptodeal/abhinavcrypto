@@ -46,3 +46,5 @@ new tasks have been added to base guild. more onchain, technical, and social tas
 and honestly, i think these guild roles are going to play a major role in the airdrop.
 the new guild tasks are:
 ... end of day 3...
+
+This is day 4 of commit on base
