@@ -48,3 +48,5 @@ the new guild tasks are:
 ... end of day 3...
 
 This is day 4 of commit on base
+
+ onchain
