@@ -58,3 +58,4 @@ holding $1,000 or 0.3 eth
 contract deployed (1)
 contract deployed (5)
 contract deployed (10+)
+github commits (1)
