@@ -68,3 +68,5 @@ x creator (5k)
 x creator (10k+)
 x creator (50k+)
 x creator (100k+)
+
+you don’t need to complete everything. pick the category (or categories) where you have the strongest edge and max it out.
