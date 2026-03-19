@@ -70,3 +70,4 @@ x creator (50k+)
 x creator (100k+)
 
 you don’t need to complete everything. pick the category (or categories) where you have the strongest edge and max it out.
+i’ll be dropping more base guides for each task group after i’m done running through them myself.
