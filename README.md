@@ -91,3 +91,4 @@ so far, only ~50k users have completed the task on the base guild. here’s how 
 go to https://coinbase.com/onchain-verify and log in with your coinbase account
 open “onchain verification” from the menu
 add your onchain wallet for verification
+once the verification is complete, return to the base guild to claim your role.
