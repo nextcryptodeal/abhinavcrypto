@@ -75,3 +75,4 @@ i’ll be dropping more base guides for each task group after i’m done running
 
 this is day 5 of commit on base
 complete base social score. it could be important or used as a multiplier for a future base airdrop.
+so far, only ~1.8k people have completed this task and earned the 20 score for the base ecosystem.
