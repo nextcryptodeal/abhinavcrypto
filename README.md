@@ -79,3 +79,4 @@ so far, only ~1.8k people have completed this task and earned the 20 score for t
 
 here’s how to get it:
 connect your X and farcaster to guild
+own a basename
