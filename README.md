@@ -74,3 +74,4 @@ i’ll be dropping more base guides for each task group after i’m done running
 ...this is end of day 4...
 
 this is day 5 of commit on base
+complete base social score. it could be important or used as a multiplier for a future base airdrop.
