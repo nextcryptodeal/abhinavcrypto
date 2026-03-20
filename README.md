@@ -78,3 +78,4 @@ complete base social score. it could be important or used as a multiplier for a 
 so far, only ~1.8k people have completed this task and earned the 20 score for the base ecosystem.
 
 here’s how to get it:
+connect your X and farcaster to guild
