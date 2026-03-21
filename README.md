@@ -96,3 +96,4 @@ once the verification is complete, return to the base guild to claim your role.
 
 This is day 6 of commit on base
 base will be migrating away from the op stack into its own infrastructure stack.
+this also means that the $BASE token is closer than ever. here's a list of things you need to do position for the airdrop:
