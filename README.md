@@ -102,3 +102,4 @@ contribute to base / baseposting
 since base app is now more trading-focused, it may be smarter to concentrate your content efforts on x. 
 
 stay active on base chain
+use the chain. bridge funds. trade. interact with dapps.
