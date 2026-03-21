@@ -99,3 +99,4 @@ base will be migrating away from the op stack into its own infrastructure stack.
 this also means that the $BASE token is closer than ever. here's a list of things you need to do position for the airdrop:
 
 contribute to base / baseposting
+since base app is now more trading-focused, it may be smarter to concentrate your content efforts on x. 
