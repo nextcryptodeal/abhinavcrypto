@@ -111,3 +111,5 @@ $1000+ signals serious participation.
  build on the base ecosystem
 this goes beyond claiming a “dev” role on guild.
 ship products. deploy contracts. launch tools. contribute real value.
+
+claim roles on base guild
