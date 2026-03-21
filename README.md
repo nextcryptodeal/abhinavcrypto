@@ -107,3 +107,5 @@ having at least $1 (usdc or eth) is advised
 $100 is much better.
 $1000+ signals serious participation.
 (only deploy what you can afford.)
+
+ build on the base ecosystem
