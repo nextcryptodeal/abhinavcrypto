@@ -93,3 +93,5 @@ open “onchain verification” from the menu
 add your onchain wallet for verification
 once the verification is complete, return to the base guild to claim your role.
 ... this is end of day 5...
+
+This is day 6 of commit on base
