@@ -103,3 +103,4 @@ since base app is now more trading-focused, it may be smarter to concentrate you
 
 stay active on base chain
 use the chain. bridge funds. trade. interact with dapps.
+having at least $1 (usdc or eth) is advised
