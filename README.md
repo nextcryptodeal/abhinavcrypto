@@ -115,3 +115,5 @@ ship products. deploy contracts. launch tools. contribute real value.
 claim roles on base guild
 the more legitimate roles you earn through contribution and activity, the better your on-chain footprint looks.
 ...this is end of day 6...
+
+this is day 7 of commit of base
