@@ -139,3 +139,4 @@ contract SimpleStorage {
         message = _newMessage;
     }
 }
+step 4: compile the contract
