@@ -122,3 +122,4 @@ in this guide, i’ll walk you through how to deploy a simple contract on base a
 step 1: create an etherscan api key
 go to http://etherscan.io, create an account and generate an api key. since base explorer (basescan) is powered by Etherscan, the same api key works for verification.
 step 2: open remix and set the api key for your deployment
+go to http://remix.ethereum.org, sign in with your github account. then click the ⚙️ settings icon (bottom left) > connected services > turn on etherscan access token then paste your api key inside. 
