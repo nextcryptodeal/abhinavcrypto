@@ -144,3 +144,4 @@ click solidity compiler on the side menu > click compile SimpleStorage.sol
  step 5: deploy on base mainnet
 click deploy & run transactions, environment → select injected provider (metamask/rabby). make sure your wallet is on base mainnet
 in the constructor field, type "gm base", then click deploy and verify. it will auto-verify the contract on basescan.
+step 6: claim your role
