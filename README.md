@@ -120,3 +120,4 @@ this is day 7 of commit of base
 deploy a simple contract on base and claim the deployer role!
 in this guide, i’ll walk you through how to deploy a simple contract on base and claim the deployer role from guild.
 step 1: create an etherscan api key
+go to http://etherscan.io, create an account and generate an api key. since base explorer (basescan) is powered by Etherscan, the same api key works for verification.
