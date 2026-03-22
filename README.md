@@ -125,3 +125,5 @@ step 2: open remix and set the api key for your deployment
 go to http://remix.ethereum.org, sign in with your github account. then click the ⚙️ settings icon (bottom left) > connected services > turn on etherscan access token then paste your api key inside. 
  step 3: create the contract file
 click create on the home page > new file, name it "SimpleStorage.sol", then paste the code below into the editor:
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
